@@ -1,0 +1,5 @@
+MINIO_ACCESS_KEY=$(openssl rand -hex 8) 
+echo "MINIO_ACCESS_KEY =" $MINIO_ACCESS_KEY
+
+MINIO_SECRET_KEY=$(openssl rand -hex 16)
+echo "MINIO_SECRET_KEY =" $MINIO_SECRET_KEY
