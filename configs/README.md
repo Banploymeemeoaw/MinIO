@@ -1,2 +1,0 @@
-# Minio-Server-Storage
-# MinIO
